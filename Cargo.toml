@@ -1,0 +1,7 @@
+[package]
+name = "btx-sample"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+topstitch = "0.16"
